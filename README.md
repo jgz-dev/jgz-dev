@@ -4,7 +4,7 @@
 <p align="center">
   🎓 <b>Estudiante de la Tecnicatura Universitaria en Programación</b> – UTN Facultad Regional Paraná (ingreso 2024)<br/>
   💻 <b>Full Stack Web Developer</b> | 🚀 React · FastAPI · PostgreSQL<br/>
-  🌍 Español Nativo | 🇬🇧 Inglés Técnico Intermedio
+  Español Nativo | Inglés Técnico Intermedio
 </p>
 
 ---
