@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Julián González
 
-<!--
-**jgz-dev/jgz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sobre mí
+Soy estudiante de la Tecnicatura Universitaria en Programación (UTN – Facultad Regional Paraná, ingreso 2024). A lo largo de la carrera desarrollé proyectos con C# (Windows Forms), Java (Spring Boot, Vaadin, Maven) y bases de datos PostgreSQL, MongoDB y Redis. Actualmente trabajo con Python (FastAPI) para el backend y React + Vite en el frontend, construyendo APIs REST y aplicaciones web completas.
+Tengo un enfoque práctico orientado al desarrollo full stack, al diseño limpio de sistemas y a la mejora continua. Mi idioma nativo es español y poseo nivel intermedio de inglés técnico.
 
-Here are some ideas to get you started:
+💻 Desarrollador Web Fullstack especializado en crear sistemas modernos, rápidos y seguros con **React, FastAPI y PostgreSQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente trabajando en [NET Turnero](https://github.com/jgz-dev/turnero) – un sistema completo de gestión de reservas deportivas con notificaciones en tiempo real.
+
+🧠 Stack: React · Next.js · FastAPI · TypeScript · TailwindCSS · PostgreSQL
+
+🌍 Abierto a proyectos freelance y colaboraciones.
+
+📫 Contacto: [LinkedIn](https://www.linkedin.com/in/juli%C3%A1n-gonz%C3%A1lez-5b6097275/)
+
