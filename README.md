@@ -53,8 +53,8 @@ Rate Limiting · Bcrypt · SQLAlchemy ORM · Tests automatizados · Headers segu
 ---
 
 ## 🤝 Contacto
-
-📫 **LinkedIn:** [Julián González](https://www.linkedin.com/in/juli%C3%A1n-gonz%C3%A1lez-5b6097275/)  
+    jg12hg@gmail.com
+📫 **LinkedIn:** [Julián González](https://www.linkedin.com/in/juli%C3%A1n-gonz%C3%A1lez-5b6097275/)
 ⭐ Si te gustó alguno de mis proyectos, ¡no dudes en dejar una estrella o contactarme para colaborar!
 
 ---
